@@ -1,0 +1,41 @@
+{
+    "1": {
+        "Nombre": "PACO",
+        "Fecha": "05-09-2023",
+        "Hora": "12:50",
+        "Motivo": "FIEBRE Y VOMITO"
+    },
+    "2": {
+        "Cita #": "2",
+        "Nombre": "DANIEL",
+        "Fecha": "05-09-2023",
+        "Hora": "10:20",
+        "Motivo": "DOLOR DE ABDOMINAL"
+    },
+    "3": {
+        "Cita #": "3",
+        "Nombre": "FELIZ",
+        "Fecha": "05-09-2023",
+        "Hora": "20:20",
+        "Motivo": "DOLOR DE ABDOMINAL"
+    },
+    "4": {
+        "Cita #": "4",
+        "Nombre": "LUIS",
+        "Fecha": "05-09-2023",
+        "Hora": "15:15",
+        "Motivo": "FIEBRE Y VOMITO"
+    },
+    "None": {
+        "Nombre": "PACO",
+        "Fecha": "05-09-2023",
+        "Hora": "12:50"
+    },
+    "6": {
+        "Cita #": "6",
+        "Nombre": "SEBAS",
+        "Fecha": "05-09-2032",
+        "Hora": "10:00",
+        "Motivo": "FIEBRE Y VOMITO"
+    }
+}
